@@ -1,0 +1,7 @@
+{
+    "climberUrl": "/climbers",
+    "peopleDb": "climbers",
+    "climbingAttemptsUrl": "/climbingAttemtps",
+    "climbingAttemptsDb": "climbingAttempts",
+    "dbUrl": "localhost:27017"
+}
